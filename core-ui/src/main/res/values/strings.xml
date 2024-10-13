@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_birthday">Дата рождения</string>
+    <string name="title_city">Город проживания</string>
+    <string name="title_username">Никнейм</string>
+    <string name="title_phone">Номер телефона</string>
+    <string name="title_zodiac">Знак зодиака</string>
+    <string name="title_name">Имя</string>
+    <string name="register">Регистрация</string>
+    <string name="hint_username_validation">Username может содержать только латинские буквы, цифры и символы: -, _</string>
+    <string name="button_confirm">Подтвердить</string>
+    <string name="button_send_code">Отправить код</string>
+    <string name="button_save">Сохранить</string>
+</resources>
